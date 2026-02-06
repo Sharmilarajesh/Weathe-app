@@ -337,6 +337,12 @@
   .text-sky-600 {
     color: var(--color-sky-600);
   }
+  .text-slate-600 {
+    color: var(--color-slate-600);
+  }
+  .text-slate-700 {
+    color: var(--color-slate-700);
+  }
   .text-white {
     color: var(--color-white);
   }
